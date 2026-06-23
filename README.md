@@ -46,7 +46,7 @@ The notebook covers:
 - FJ617585 and FJ617584 are the most divergent pair (2 SNPs apart), while 
   FJ617586 sits between them with 1 SNP difference from each
 - This pattern suggests at least two distinct rpoB lineages of *M. africanum* 
-  are circulating in Ghana — one matching the global majority sequence and 
+  are circulating in Ghana, one matching the global majority sequence and 
   one carrying local variants. If either SNP falls within the rifampicin 
   resistance-determining region (RRDR), it could have direct implications 
   for TB treatment outcomes in Ghana
