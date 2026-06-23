@@ -4,7 +4,7 @@
 *Mycobacterium africanum* accounts for approximately 20% of TB cases in Ghana 
 and up to 40-50% in some other West African countries, yet it remains less 
 studied than *M. tuberculosis*. Understanding the genetic diversity of local 
-clinical isolates matters for drug resistance surveillance — particularly in 
+clinical isolates matters for drug resistance surveillance; particularly in 
 the rpoB gene, where mutations drive resistance to rifampicin, a first-line 
 TB drug.
 
@@ -18,7 +18,7 @@ differences.
 - 4 partial gene sequences from NCBI GenBank (accessions FJ617583-FJ617586)
 - Organism: *Mycobacterium tuberculosis* variant africanum
 - Source: Human sputum samples, Ghana
-- Reference: Goncalves Vasconcellos et al. — distinct genotypic profiles of 
+- Reference: Goncalves Vasconcellos et al., distinct genotypic profiles of 
   *M. africanum* clades causing tuberculosis in Ghana
 
 ## Tools Used
